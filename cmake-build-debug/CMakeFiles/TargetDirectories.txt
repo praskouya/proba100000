@@ -1,0 +1,3 @@
+C:/Users/gorba/CLionProjects/proba100000/cmake-build-debug/CMakeFiles/proba100000.dir
+C:/Users/gorba/CLionProjects/proba100000/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gorba/CLionProjects/proba100000/cmake-build-debug/CMakeFiles/rebuild_cache.dir
